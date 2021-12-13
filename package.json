@@ -1,0 +1,15 @@
+{
+    "name": "react-portfolio",
+    "version": "0.1.0",
+    "main": "index.js",
+    "scripts": {
+        "heroku-postbuild": "npm run install-client && npm run build",
+        "build": "cd client && npm run build"
+    },
+    "keywords": [],
+    "author": "Garrett Kegel",
+    "license": "ISC",
+    "devDependencies": {
+        "concurrently": "^6.4.0"
+    }
+}
