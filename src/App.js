@@ -55,6 +55,7 @@ function App() {
           <Route exact path = "/" element = { < Page0 /> }/> 
           <Route exact path = "/page1" element = { < Page1 /> }/>
         </Routes>
+        <Page0 />
         </div>
       </div>
     </Router>
