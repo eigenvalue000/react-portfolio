@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.664606ec.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.e518890a.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.e518890a.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.77c364bb.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.77c364bb.js.map",
+    "static/js/2.f94f1c0b.chunk.js": "/react-portfolio/static/js/2.f94f1c0b.chunk.js",
+    "static/js/2.f94f1c0b.chunk.js.map": "/react-portfolio/static/js/2.f94f1c0b.chunk.js.map",
+    "static/js/3.432148d8.chunk.js": "/react-portfolio/static/js/3.432148d8.chunk.js",
+    "static/js/3.432148d8.chunk.js.map": "/react-portfolio/static/js/3.432148d8.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.664606ec.chunk.css.map": "/react-portfolio/static/css/main.664606ec.chunk.css.map",
+    "static/js/2.f94f1c0b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f94f1c0b.chunk.js.LICENSE.txt",
+    "static/media/eigenvalueLogo2.42c4be29.jpg": "/react-portfolio/static/media/eigenvalueLogo2.42c4be29.jpg",
+    "static/media/markowitzPic.a76ce9ef.png": "/react-portfolio/static/media/markowitzPic.a76ce9ef.png",
+    "static/media/mellifluous.eb7b2e5f.png": "/react-portfolio/static/media/mellifluous.eb7b2e5f.png",
+    "static/media/passwordGenPic.f2f5cae1.png": "/react-portfolio/static/media/passwordGenPic.f2f5cae1.png",
+    "static/media/stockcallerPic.1c5554b1.png": "/react-portfolio/static/media/stockcallerPic.1c5554b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77c364bb.js",
+    "static/js/2.f94f1c0b.chunk.js",
+    "static/css/main.664606ec.chunk.css",
+    "static/js/main.e518890a.chunk.js"
+  ]
+}
